@@ -20,8 +20,6 @@ class Solution(object):
         j = 0
         result = []
         backtracking(1, [])
-        print("Hello2")
-        print(result)
         return result
 
         """
