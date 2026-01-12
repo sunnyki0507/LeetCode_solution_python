@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnyki0507/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/sunnyki0507/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/sunnyki0507/LeetCode/tree/master/0399-evaluate-division) |
+| [0435-non-overlapping-intervals](https://github.com/sunnyki0507/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sunnyki0507/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/sunnyki0507/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/sunnyki0507/LeetCode/tree/master/0994-rotting-oranges) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sunnyki0507/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/sunnyki0507/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1268-search-suggestions-system](https://github.com/sunnyki0507/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2542-maximum-subsequence-score](https://github.com/sunnyki0507/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/sunnyki0507/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sunnyki0507/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2542-maximum-subsequence-score](https://github.com/sunnyki0507/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Two Pointers
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/sunnyki0507/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/sunnyki0507/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sunnyki0507/LeetCode/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/sunnyki0507/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sunnyki0507/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/sunnyki0507/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/sunnyki0507/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
