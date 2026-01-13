@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sunnyki0507/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunnyki0507/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sunnyki0507/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/sunnyki0507/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/sunnyki0507/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/sunnyki0507/LeetCode/tree/master/0994-rotting-oranges) |
 | [1268-search-suggestions-system](https://github.com/sunnyki0507/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -180,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sunnyki0507/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/sunnyki0507/LeetCode/tree/master/1268-search-suggestions-system) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sunnyki0507/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sunnyki0507/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
