@@ -8,13 +8,6 @@ class Solution(object):
                 idx = stack.pop()
                 temp[idx] = i - idx
             stack.append(i)
-        # for j,num in enumerate(temp):
-        #     if num == 0:
-        #         nextB.append(0)
-        #     else:
-        #         idx = temperatures.index(num, j+1)
-        #         add = idx - j
-        #         nextB.append(add)
         return temp
             
 
