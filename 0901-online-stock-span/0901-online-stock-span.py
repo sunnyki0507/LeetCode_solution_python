@@ -23,16 +23,6 @@ class StockSpanner(object):
             self.nextB[self.stack.pop()] = price
         self.stack.append(self.idx)
         
-        # print("Hi")
-        # print(self.stack)
-        # print(self.nextB)
-        #///////////
-        # nextB.pop()
-        # if 0 not in nextB:
-        #     return len(nextB) + 1
-        # nextB.reverse()
-        # zero = nextB.index(0)
-        #/////////////
         if len(self.stack) < 2:
             return len(self.nextB)
         first = self.stack[-1]
