@@ -10,7 +10,6 @@ class Solution(object):
             if len(papers) <= num:
                 h = max(h,len(papers))
             else:
-                # h = max(h, num)
                 break
         return h
 
