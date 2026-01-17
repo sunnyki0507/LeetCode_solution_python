@@ -47,12 +47,12 @@ class RandomizedSet(object):
         
 
     def insert(self, val):
-        if val not in self.random:
-            self.random.append(val)
-            self.idx[val] = len(self.random) - 1
-            return True
-        else:
+        if val in self.random:
             return False
+        
+        self.random.append(val)
+        self.idx[val] = len(self.random) - 1
+        return True
         """
         :type val: int
         :rtype: bool
