@@ -60,7 +60,9 @@ class RandomizedSet(object):
         if val not in self.random:
             return False
         else:
-            self.random.remove(val)
+            # self.random.remove(val)
+            idx = self.random.index(val)
+            self.random.pop(idx)
             return True
 
         """
