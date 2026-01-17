@@ -7,16 +7,10 @@ class Solution(object):
             num = max(arr)
             idx = arr.index(num)
             papers.append(arr.pop(idx))
-            # print(num)
-            # print(papers)
             if len(papers) <= num:
                 h = max(h,len(papers))
-                # print(h)
-                # print("Hi")
             else:
                 h = max(h, num)
-                # print(h)
-                # print("Bye")
                 break
         return h
 
