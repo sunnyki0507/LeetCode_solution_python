@@ -43,11 +43,13 @@ class RandomizedSet(object):
 
     def __init__(self):
         self.random = []
+        self.idx = {}
         
 
     def insert(self, val):
         if val not in self.random:
             self.random.append(val)
+            self.idx[val] = len(self.random) - 1
             return True
         else:
             return False
@@ -60,9 +62,13 @@ class RandomizedSet(object):
         if val not in self.random:
             return False
         else:
-            # self.random.remove(val)
-            idx = self.random.index(val)
-            self.random.pop(idx)
+            i = self.idx[val]
+            self.idx[self.random[-1]] = i
+            self.random[i] = self.random[-1]
+
+            self.random.pop()
+            self.idx.pop(val)
+            # self.random.pop(idx)
             return True
 
         """
