@@ -1,21 +1,33 @@
 class Solution(object):
     def productExceptSelf(self, nums):
-        answer = []
-        front = []
-        back = []
-        fAdd = 1
-        bAdd = 1
-        length = len(nums)
-        for i in range(len(nums)-1):
-            fAdd *= nums[i]
-            bAdd *= nums[length-1-i]
-            front.append(fAdd)
-            back.append(bAdd)
+        ans = [1] * len(nums)
+        curr = 1
 
-        back.reverse()
-        back.append(1)
-        front.insert(0,1)
-        return [x*y for x,y in zip(front,back)]
+        for i in range(len(nums)):
+            ans[i] *= curr
+            curr *= nums[i]
+        curr = 1
+        for i in range(len(nums)-1,-1,-1):
+            ans[i] *= curr
+            curr *= nums[i]
+        return ans
+
+        # answer = []
+        # front = []
+        # back = []
+        # fAdd = 1
+        # bAdd = 1
+        # length = len(nums)
+        # for i in range(len(nums)-1):
+        #     fAdd *= nums[i]
+        #     bAdd *= nums[length-1-i]
+        #     front.append(fAdd)
+        #     back.append(bAdd)
+
+        # back.reverse()
+        # back.append(1)
+        # front.insert(0,1)
+        # return [x*y for x,y in zip(front,back)]
 
 
             
