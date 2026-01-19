@@ -17,7 +17,6 @@ class Solution(object):
                 continue
             if water[i] > (h - height[i]):
                 water[i] = h - height[i]
-        print(water)
         return sum(water)
 
         """
