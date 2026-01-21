@@ -4,7 +4,6 @@ class Solution(object):
         add = []
         string = ""
         for i in words:
-            print(i)
             if len(string) == 0:
                 string += i
                 add.append(i)
@@ -15,7 +14,6 @@ class Solution(object):
                     string += i
                     add.append(i)
                 else:
-                    print(add)
                     left = maxWidth - len(string)
                     gap = len(add) - 1
                     if gap == 0:
