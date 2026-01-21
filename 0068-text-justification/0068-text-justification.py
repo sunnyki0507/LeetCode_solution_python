@@ -36,8 +36,6 @@ class Solution(object):
         # return res
 
 
-
-
         res = []
         add = []
         string = ""
