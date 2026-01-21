@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sunnyki0507/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sunnyki0507/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/sunnyki0507/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0392-is-subsequence](https://github.com/sunnyki0507/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/sunnyki0507/LeetCode/tree/master/0399-evaluate-division) |
 | [1143-longest-common-subsequence](https://github.com/sunnyki0507/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/sunnyki0507/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sunnyki0507/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sunnyki0507/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sunnyki0507/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/sunnyki0507/LeetCode/tree/master/0392-is-subsequence) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sunnyki0507/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Simulation
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunnyki0507/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/sunnyki0507/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sunnyki0507/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/sunnyki0507/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sunnyki0507/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sunnyki0507/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/sunnyki0507/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
