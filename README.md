@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sunnyki0507/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sunnyki0507/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sunnyki0507/LeetCode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/sunnyki0507/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sunnyki0507/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/sunnyki0507/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunnyki0507/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sunnyki0507/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/sunnyki0507/LeetCode/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/sunnyki0507/LeetCode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/sunnyki0507/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sunnyki0507/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/sunnyki0507/LeetCode/tree/master/0068-text-justification) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sunnyki0507/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Backtracking
