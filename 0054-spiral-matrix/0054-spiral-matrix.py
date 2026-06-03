@@ -9,7 +9,6 @@ class Solution(object):
         cn = 0
         while occu[rn][cn] == 0:
             arr.append(matrix[rn][cn])
-            print(matrix[rn][cn])
             occu[rn][cn] = 1
             if d % 4 == 0:
                 cn += 1
@@ -33,10 +32,6 @@ class Solution(object):
                     rn -= 1
             else:
                 rn -= 1
-                print("d = 3")
-                print(rn)
-                print(cn)
-                print(occu[rn][cn])
                 if occu[rn][cn] != 0:
                     rn += 1
                     d += 1
