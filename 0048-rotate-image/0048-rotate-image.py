@@ -5,7 +5,6 @@ class Solution(object):
             for j in range(length):
                 matrix[i].append(matrix[length - j - 1][i])
         for i in range(length):
-            print(matrix[length:])
             matrix[i] = matrix[i][length:]
         return
         """
