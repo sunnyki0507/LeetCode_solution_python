@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sunnyki0507/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sunnyki0507/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/sunnyki0507/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0383-ransom-note](https://github.com/sunnyki0507/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sunnyki0507/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/sunnyki0507/LeetCode/tree/master/0399-evaluate-division) |
 | [1143-longest-common-subsequence](https://github.com/sunnyki0507/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sunnyki0507/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sunnyki0507/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyki0507/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/sunnyki0507/LeetCode/tree/master/0383-ransom-note) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sunnyki0507/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Design
 |  |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sunnyki0507/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/sunnyki0507/LeetCode/tree/master/0383-ransom-note) |
 ## Counting Sort
 |  |
 | ------- |
